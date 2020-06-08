@@ -531,7 +531,7 @@ case $run in
     "追加と削除" ) install_and_uninstall ;;
     "アップグレード" ) $pacman -Syu --noconfirm | loading 600 100 "パッケージのアップグレードを行っています。" ;;
     "クリーンアップ" ) cleanup ;;
-    "アップデート" ) $sudo apt update | loading 600 100 "APTパッケージリストのアップデートを行っています。"
+    "アップデート" ) $apt update | loading 600 100 "APTパッケージリストのアップデートを行っています。"
     "一覧をアップデート" ) $softwares_update | loading 600 100 "スクリプトを更新しています。";;
     * ) error 600 100 "例外が発生しました。"; exit 1;;
 esac
