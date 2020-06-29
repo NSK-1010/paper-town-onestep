@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Encoding=UTF-8
+Name=Paper Town Onestep
+Comment=A package installer.
+Exec=paper-town-onestep
+Icon=/usr/share/pixmaps/paper-town/paper-town.png
+Categories=Application;System;
+
+Terminal=false
