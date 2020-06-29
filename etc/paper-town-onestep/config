@@ -25,7 +25,7 @@ window_text="PaperTown Onestep v${version}"
 # このアイコンはウィンドウマネージャのアイコン表示に使用されます。
 #=================================================================#
 #
-window_icon="/usr/share/pixmaps/paper-town/onestep.png"
+window_icon="/usr/share/pixmaps/paper-town/paper-town.png"
 
 
 
