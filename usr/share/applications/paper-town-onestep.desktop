@@ -1,7 +1,7 @@
 [Desktop Entry]
 Type=Application
 Encoding=UTF-8
-Name=Paper Town Onestep
+Name=PaperTown Onestep
 Comment=A package installer.
 Exec=paper-town-onestep
 Icon=/usr/share/pixmaps/paper-town/paper-town.png
